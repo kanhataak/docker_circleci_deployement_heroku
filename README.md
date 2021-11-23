@@ -121,4 +121,4 @@ git push -u origin main
 >HEROKU_APP_NAME
 >HEROKU_EMAIL_ADDRESS
 
->DOCKER_IMAGE_NAME=<wafercircle3270303>
+>DOCKER_IMAGE_NAME= dockerherokudeploy2197

@@ -98,10 +98,10 @@ workflows:
 
 ```
 git init
-git add README.md
+git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Avnish327030/wafer_circleci.git
+git remote add origin  https://github.com/kanhataak/docker_circleci_deployement_heroku.git
 git push -u origin main
 ```
 
@@ -111,7 +111,7 @@ git push -u origin main
 
 ## setup your project 
 
-<a href="https://app.circleci.com/projects/github/Avnish327030/setup/"> Setup project </a>
+<a href="https://app.circleci.com/projects/github/kanhataak/setup/"> Setup project </a>
 
 ## Select project setting in CircleCI and below environment variable
 
